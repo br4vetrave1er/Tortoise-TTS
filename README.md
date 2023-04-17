@@ -7,3 +7,4 @@ please use GPU before running this notebook which can be selected from Runtime -
 
 After installing all the dependencies just run each cell
 
+![Alt text](relative%20path/to/img.jpg?raw=true "Title")
