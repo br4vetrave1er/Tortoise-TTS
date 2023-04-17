@@ -7,4 +7,4 @@ please use GPU before running this notebook which can be selected from Runtime -
 
 After installing all the dependencies just run each cell
 
-![Alt text](relative%20path/to/img.jpg?raw=true "Title")
+![Alt text](https://github.com/br4vetrave1er/Tortoise-TTS/blob/main/Images/Screenshot%20(12).png?raw=true "Text to convert")
